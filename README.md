@@ -1,5 +1,5 @@
 # Fake News Classification using Machine Learning
-
+https://www.kaggle.com/competitions/fake-news/overview
 This repository contains code and resources for Fake News Classification using Machine Learning. The project aims to build a robust model that can distinguish between real and fake news articles.
 
 ## Overview
